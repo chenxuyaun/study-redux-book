@@ -1,0 +1,26 @@
+{
+  "name": "study-redux-book",
+  "version": "1.0.0",
+  "description": "学习转载xiaofeng123aazz老师的[redux原理是什么](https://blog.csdn.net/xiaofeng123aazz/article/details/127082218)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token: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@github.com/chenxuyaun/study-redux-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenxuyaun/study-redux-book/issues"
+  },
+  "homepage": "https://github.com/chenxuyaun/study-redux-book#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2"
+  }
+}
